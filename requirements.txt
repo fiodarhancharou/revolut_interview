@@ -1,0 +1,11 @@
+
+fastapi[standard]
+pydantic
+SQLAlchemy
+starlette
+uvicorn
+validators
+httpx
+numpy
+pandas
+pydantic-settings
